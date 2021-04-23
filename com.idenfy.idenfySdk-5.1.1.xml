@@ -213,7 +213,7 @@
     <dependency>
       <groupId>com.github.viktasidenfy</groupId>
       <artifactId>idenfyliveness</artifactId>
-      <version>1.0.3</version>
+      <version>1.0.5</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
