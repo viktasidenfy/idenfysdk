@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>idenfySdk</groupId>
   <artifactId>com.idenfy.idenfySdk</artifactId>
-  <version>STAGE_SDK-0.3.3</version>
+  <version>0.3.3</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
